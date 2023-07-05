@@ -8,3 +8,5 @@ Then put the data into the folder test_set and train_set, respectively.
 
 ## About Experiment
 mian.py and utils py are modified by Digital-Recognition-DTW_HMM_GMM for fitting this project.
+
+EDA.py is for exploratory data analysis。
